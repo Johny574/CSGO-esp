@@ -1,0 +1,26 @@
+﻿  csgo.cpp
+C:\Users\johny\Desktop\csgo\src\render.h(20,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/csgo.cpp')
+  
+C:\Users\johny\Desktop\csgo\src\render.h(20,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/csgo.cpp')
+  
+C:\Users\johny\Desktop\csgo\src\render.h(20,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/csgo.cpp')
+  
+C:\Users\johny\Desktop\csgo\src\render.h(20,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/csgo.cpp')
+  
+C:\Users\johny\Desktop\csgo\src\render.h(20,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/csgo.cpp')
+  
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(18,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(19,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(79,3): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(78,3): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(279,5): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(277,5): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(276,5): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(275,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johny\Desktop\csgo\src\csgo.cpp(274,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  csgo.vcxproj -> C:\Users\johny\Desktop\csgo\x64\Debug\csgo.exe
